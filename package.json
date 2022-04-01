@@ -1,0 +1,26 @@
+{
+  "name": "testing-pos-v1",
+  "version": "1.0.0",
+  "description": "Testing using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "starttest": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s3sivaram/Testing-PoS-v1.git"
+  },
+  "keywords": [
+    "PoS"
+  ],
+  "author": "s3sivaram",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s3sivaram/Testing-PoS-v1/issues"
+  },
+  "homepage": "https://github.com/s3sivaram/Testing-PoS-v1#readme",
+  "dependencies": {
+    "cypress": "^9.5.3"
+  }
+}

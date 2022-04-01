@@ -1,0 +1,4 @@
+{
+"watchForFilechanges":"false",
+"ignoreTestFiles":"/integration/Examples/*"
+}
