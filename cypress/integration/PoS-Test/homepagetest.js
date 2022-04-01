@@ -10,6 +10,6 @@ it("homepage", () => {
 
 it.only("html test", () => {
   cy.visit("http://127.0.0.1:5500/cypress/first.html");
-  cy.get("[type = 'text']").type("sivaram");
+  cy.get("[type = 'text']").type("sivaram3");
   cy.get("button").click();
 });
